@@ -5,10 +5,6 @@
 
 # 🏥 Health Risk Stratification App
 
-> A Machine Learning-powered Streamlit application that predicts patient health risk levels using clinical data.
-
-# 🏥 Health Risk Stratification App
-
 > A Machine Learning-powered Streamlit application that predicts patient health risk levels using clinical data and provides real-time risk assessment.
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
