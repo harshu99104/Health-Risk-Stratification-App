@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="images/banner.png" alt="Health Risk Stratification Banner" width="100%">
+</p>
+
+# 🏥 Health Risk Stratification App
+
+> A Machine Learning-powered Streamlit application that predicts patient health risk levels using clinical data.
+
 # 🏥 Health Risk Stratification App
 
 > A Machine Learning-powered Streamlit application that predicts patient health risk levels using clinical data and provides real-time risk assessment.
