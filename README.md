@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="image/banner.png" alt="Health Risk Stratification Banner" width="100%">
+  <img src="Image/banner.png" alt="Health Risk Stratification Banner" width="100%">
 </p>
 
 # 🏥 Health Risk Stratification App
